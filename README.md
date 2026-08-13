@@ -1,62 +1,59 @@
-# 👋 Hi, I'm Abhay Dubey
+# Abhay1777
 
-### B.E. Information Technology Student · Full Stack Developer · Problem Solver
+> Memorable developer positioning.
 
-I build web applications and practical software projects while continuously improving my
-problem-solving and development skills.
+**Theme:** GitHub · **Style:** Creative · **Agent:** Full-Stack Engineer
 
-Currently focused on **Java, DSA, Full Stack Development, and backend fundamentals.**
-
----
-
-## 🧑‍💻 About
-
-- 🎓 B.E. Information Technology @ Thakur College of Engineering & Technology
-- 💻 Focused on **Full Stack Web Development**
-- 🧠 Currently strengthening **DSA with Java**
-- ⚙️ Interested in **Backend Development, APIs, Databases & System Design**
-- 🚀 Building projects to turn concepts into working products
-- 📚 Learning something new and shipping consistently
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,c,js,html,css" />
+## Header
+> Editing this section in the inspector.
+Hi, I'm **Abhay1777**. This README is tuned for **personal brand** with a GitHub visual system.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=Abhay1777&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=Abhay1777&theme=github-dark" alt="Abhay1777 hero section" />
+  </picture>
+</p>
+## About Me
+Shapes the short profile story and positioning.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=Abhay1777&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=Abhay1777&theme=github-dark" alt="Abhay1777 about section" />
+  </picture>
+</p>
+## Skills
+Selected stack and skill badges will be generated from the GitHub profile and README strategy.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=Abhay1777&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=Abhay1777&theme=github-dark" alt="Abhay1777 stack section" />
+  </picture>
+</p>
+## Projects
+Highlights repositories as proof of work.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=Abhay1777&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=Abhay1777&theme=github-dark" alt="Abhay1777 projects section" />
+  </picture>
+</p>
+## Heatmap
+Animated year-long contribution calendar.
+## GitHub Stats
+GitSkins stat widgets will use the **GitHub** theme.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=Abhay1777&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=Abhay1777&theme=github-dark" alt="Abhay1777 stats section" />
+  </picture>
+</p>
+## Connect
+Contact and social links will appear here.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=Abhay1777&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=Abhay1777&theme=github-dark" alt="Abhay1777 social section" />
+  </picture>
 </p>
 
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
-### Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,postgresql" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,docker,aws" />
-</p>
-
----
-
-## 📌 Current Focus
-
-```text
-DSA with Java
-      ↓
-Full Stack Development
-      ↓
-Backend & Database Design
-      ↓
-Real-world Projects
-      ↓
-Placement Preparation
+<!-- Sections: Header, About Me, Skills, Projects, Heatmap, GitHub Stats, Connect -->
