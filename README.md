@@ -1,10 +1,10 @@
 <div align="center">
 
-ABHAY DUBEY
+# ABHAY DUBEY
 
-Software Engineer
+### Software Engineer
 
-Java · DSA · Full Stack Development
+`Java` · `DSA` · `Full Stack Development`
 
 Building useful software, learning the systems behind it, and improving one iteration at a time.
 
@@ -28,37 +28,35 @@ Building useful software, learning the systems behind it, and improving one iter
 
 </div>
 
+---
+
 <div align="center">
 
-NOW
+## NOW
 
 <table align="center">
 <tr>
 <td align="center" width="33%">
 
-BUILDING
+**BUILDING**
 
-Full-stack applications with
-clean interfaces, useful features,
-APIs and databases.
+Full-stack applications with clean interfaces, useful features, APIs and databases.
 
 </td>
 
 <td align="center" width="33%">
 
-LEARNING
+**LEARNING**
 
-Java · DSA · Backend Development
-System Design
+Java · DSA · Backend Development · System Design
 
 </td>
 
 <td align="center" width="33%">
 
-FOCUS
+**FOCUS**
 
-Problem solving + real project work
-toward software engineering roles.
+Problem solving + real project work toward software engineering roles.
 
 </td>
 </tr>
@@ -66,22 +64,25 @@ toward software engineering roles.
 
 </div>
 
+---
+
 <div align="center">
 
-SELECTED WORK
+## SELECTED WORK
 
 <table align="center">
 <tr>
+
 <td align="center" width="50%" valign="top">
 
-SWEATSPOT
+### SWEATSPOT
 
-Fitness Platform
+**Fitness Platform**
 
 A web application combining workout tools, step tracking, BMI,
 calorie estimation and fitness goals.
 
-HTML CSS JavaScript
+`HTML` `CSS` `JavaScript`
 
 <br>
 
@@ -91,86 +92,77 @@ HTML CSS JavaScript
 
 <td align="center" width="50%" valign="top">
 
-HOSTEL COMPLAINT SYSTEM
+### HOSTEL COMPLAINT SYSTEM
 
-Complaint Management
+**Complaint Management**
 
 A database-backed application for submitting, storing and tracking
 hostel complaints.
 
-Python Flask MongoDB
+`Python` `Flask` `MongoDB`
 
 </td>
+
 </tr>
 
 <tr>
+
 <td align="center" width="50%" valign="top">
 
-HOTEL BOOKING CHATBOT
+### HOTEL BOOKING CHATBOT
 
-Conversational Assistant
+**Conversational Assistant**
 
 A chatbot project designed around hotel-booking queries
 and automated responses.
 
-AWS Lex
+`AWS Lex`
 
 </td>
 
 <td align="center" width="50%" valign="top">
 
-NEXT
+### NEXT
 
-More Ambitious Systems
+**More Ambitious Systems**
 
 The next stage is stronger full-stack applications with better
 backend structure, APIs, databases and deployment.
 
-React Node.js
+`React` `Node.js`
 
 </td>
+
 </tr>
 </table>
 
 </div>
 
+---
+
 <div align="center">
 
-THE STACK
+## THE STACK
 
 <img src="https://skillicons.dev/icons?i=java,cpp,c,js,html,css,react,nodejs,express,mysql,mongodb,postgresql,docker,aws,git,github,vscode" />
 
 <br><br>
 
-Area
-
-Technologies
-
-Languages
-
-Java · JavaScript · C++ · C
-
-Frontend
-
-HTML · CSS · React
-
-Backend
-
-Node.js · Express · REST APIs
-
-Databases
-
-MySQL · MongoDB · PostgreSQL
-
-Workflow
-
-Git · GitHub · Docker · AWS
+| Area | Technologies |
+| :---: | :---: |
+| **Languages** | Java · JavaScript · C++ · C |
+| **Frontend** | HTML · CSS · React |
+| **Backend** | Node.js · Express · REST APIs |
+| **Databases** | MySQL · MongoDB · PostgreSQL |
+| **Workflow** | Git · GitHub · Docker · AWS |
 
 </div>
 
+---
+
 <div align="center">
 
-HOW I WORK
+## HOW I WORK
 
 <table align="center">
 <tr>
@@ -194,69 +186,85 @@ Understand the problem → design the solution → build → test → improve �
 
 </div>
 
+---
+
 <div align="center">
 
-CURRENTLY WORKING ON
+## CURRENTLY WORKING ON
 
 <table align="center">
 <tr>
+
 <td align="center" width="25%">
 
-DSA
+### DSA
 
-Solving problems with Java
+Solving problems with Java  
 and improving problem-solving speed.
 
 </td>
 
 <td align="center" width="25%">
 
-FULL STACK
+### FULL STACK
 
-Building web applications
+Building web applications  
 from interface to database.
 
 </td>
 
 <td align="center" width="25%">
 
-BACKEND
+### BACKEND
 
-Learning APIs, databases,
+Learning APIs, databases,  
 authentication and deployment.
 
 </td>
 
 <td align="center" width="25%">
 
-PROJECTS
+### PROJECTS
 
-Turning concepts into
+Turning concepts into  
 working, deployable products.
 
 </td>
+
 </tr>
 </table>
 
 </div>
 
+---
+
 <div align="center">
 
-GITHUB
+## GITHUB
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abhay1777&show_icons=true&hide_border=true&bg_color=00000000&title_color=F0F6FC&text_color=8B949E&icon_color=F0F6FC&rank_icon=github" height="155" />
+<a href="https://github.com/Abhay1777">
 
-<img src="https://streak-stats.demolab.com?user=Abhay1777&hide_border=true&background=00000000&ring=8B949E&fire=F0F6FC&currStreakLabel=8B949E&sideLabels=8B949E&dates=6E7681" height="155" />
+<img src="https://img.shields.io/badge/GitHub-Abhay1777-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+</a>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay1777&layout=compact&hide_border=true&bg_color=00000000&title_color=F0F6FC&text_color=8B949E" height="120" />
+Building consistently, committing what I learn, and turning projects into real software.
+
+<br><br>
+
+<a href="https://github.com/Abhay1777?tab=repositories">
+<img src="https://img.shields.io/badge/View_Repositories-161B22?style=flat-square&logo=github&logoColor=white" />
+</a>
 
 </div>
 
+---
+
 <div align="center">
 
-LET'S BUILD SOMETHING USEFUL.
+## LET'S BUILD SOMETHING USEFUL.
 
 <br>
 
@@ -274,6 +282,6 @@ LET'S BUILD SOMETHING USEFUL.
 
 <br><br>
 
-<sub>build quietly · learn deeply · ship consistently</sub>
+<sub>Build quietly · Learn deeply · Ship consistently</sub>
 
 </div>
