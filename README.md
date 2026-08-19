@@ -2,7 +2,7 @@
 
 # ABHAY DUBEY
 
-### Software Engineer
+### Full Stack Web Devloper
 
 `Java` · `DSA` · `Full Stack Development`
 
