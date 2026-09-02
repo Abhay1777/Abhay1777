@@ -40,7 +40,7 @@ Building useful software, learning the systems behind it, and improving one iter
 
 **BUILDING**
 
-Full-stack applications with clean interfaces, useful features, APIs and databases.
+Full-stack applications with clean interfaces, APIs and databases.
 
 </td>
 
