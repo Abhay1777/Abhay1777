@@ -1,287 +1,69 @@
-<div align="center">
+## Abhay Dubey
 
-# ABHAY DUBEY
-
-### Full Stack Web Devloper
-
-`Java` · `DSA` · `Full Stack Development`
-
-Building useful software, learning the systems behind it, and improving one iteration at a time.
-
-<br>
-
-<a href="https://www.linkedin.com/in/abhay-dubey-67753a312/">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28" />
-</a>
-&nbsp;
-<a href="https://abhay1777.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-222222?style=flat-square&logo=googlechrome&logoColor=white" height="28" />
-</a>
-&nbsp;
-<a href="mailto:abhaydubey1177@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" height="28" />
-</a>
-&nbsp;
-<a href="https://github.com/Abhay1777">
-<img src="https://img.shields.io/badge/GitHub-Abhay1777-181717?style=flat-square&logo=github&logoColor=white" height="28" />
-</a>
-
-</div>
+**Full Stack Developer** building systems while learning how they work.
 
 ---
 
-<div align="center">
+### Currently
 
-## NOW
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-**BUILDING**
-
-Full-stack applications with clean interfaces, APIs and databases.
-
-</td>
-
-<td align="center" width="33%">
-
-**LEARNING**
-
-Java · DSA · Backend Development · System Design
-
-</td>
-
-<td align="center" width="33%">
-
-**FOCUS**
-
-Problem solving + real project work toward software engineering roles.
-
-</td>
-</tr>
-</table>
-
-</div>
+| Status | Details |
+|--------|---------|
+| **Shipping** | Full-stack web applications with clean APIs and databases |
+| **Learning** | DSA with Java · Linked Lists · Backend Architecture |
+| **Focus** | Problem-solving through real project work |
 
 ---
 
-<div align="center">
+### Toolbox
 
-## SELECTED WORK
+**Languages:** Java · JavaScript · C++ · C
 
-<table align="center">
-<tr>
+**Frontend:** HTML · CSS · React
 
-<td align="center" width="50%" valign="top">
+**Backend:** Node.js · Express · REST APIs
 
-### SWEATSPOT
+**Data:** MySQL · MongoDB · PostgreSQL
 
-**Fitness Platform**
-
-A web application combining workout tools, step tracking, BMI,
-calorie estimation and fitness goals.
-
-`HTML` `CSS` `JavaScript`
-
-<br>
-
-<a href="https://abhay1777.github.io/Portfolio/">View Portfolio ↗</a>
-
-</td>
-
-<td align="center" width="50%" valign="top">
-
-### HOSTEL COMPLAINT SYSTEM
-
-**Complaint Management**
-
-A database-backed application for submitting, storing and tracking
-hostel complaints.
-
-`Python` `Flask` `MongoDB`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="50%" valign="top">
-
-### HOTEL BOOKING CHATBOT
-
-**Conversational Assistant**
-
-A chatbot project designed around hotel-booking queries
-and automated responses.
-
-`AWS Lex`
-
-</td>
-
-<td align="center" width="50%" valign="top">
-
-### NEXT
-
-**More Ambitious Systems**
-
-The next stage is stronger full-stack applications with better
-backend structure, APIs, databases and deployment.
-
-`React` `Node.js`
-
-</td>
-
-</tr>
-</table>
-
-</div>
+**Infrastructure:** Docker · AWS · Git
 
 ---
 
-<div align="center">
+### Recent Projects
 
-## THE STACK
+#### SweatSpot
+Fitness platform combining workout tracking, step counting, BMI calculation, and goal management.  
+*HTML, CSS, JavaScript* · [View →](https://abhay1777.github.io/Portfolio/)
 
-<img src="https://skillicons.dev/icons?i=java,cpp,c,js,html,css,react,nodejs,express,mysql,mongodb,postgresql,docker,aws,git,github,vscode" />
+#### Hostel Complaint System
+Database-backed application for submitting, tracking, and resolving hostel complaints.  
+*Python, Flask, MongoDB*
 
-<br><br>
+#### Hotel Booking Chatbot
+Conversational assistant for hotel-booking queries and automated customer responses.  
+*AWS Lex*
 
-| Area | Technologies |
-| :---: | :---: |
-| **Languages** | Java · JavaScript · C++ · C |
-| **Frontend** | HTML · CSS · React |
-| **Backend** | Node.js · Express · REST APIs |
-| **Databases** | MySQL · MongoDB · PostgreSQL |
-| **Workflow** | Git · GitHub · Docker · AWS |
-
-</div>
-
----
-
-<div align="center">
-
-## HOW I WORK
-
-<table align="center">
-<tr>
-<td align="center" width="14%"><strong>01</strong><br>Idea</td>
-<td align="center">→</td>
-<td align="center" width="14%"><strong>02</strong><br>Understand</td>
-<td align="center">→</td>
-<td align="center" width="14%"><strong>03</strong><br>Design</td>
-<td align="center">→</td>
-<td align="center" width="14%"><strong>04</strong><br>Build</td>
-<td align="center">→</td>
-<td align="center" width="14%"><strong>05</strong><br>Test</td>
-<td align="center">→</td>
-<td align="center" width="14%"><strong>06</strong><br>Ship</td>
-</tr>
-</table>
-
-<br>
-
-Understand the problem → design the solution → build → test → improve → ship
-
-</div>
+#### Self-Heal Git _(In Progress)_
+Autonomous PR reviewer and bug fixer using ML and code analysis.  
+*Python, FastAPI, pytest, OpenAI API*
 
 ---
 
-<div align="center">
+### Engineering Principles
 
-## CURRENTLY WORKING ON
-
-<table align="center">
-<tr>
-
-<td align="center" width="25%">
-
-### DSA
-
-Solving problems with Java  
-and improving problem-solving speed.
-
-</td>
-
-<td align="center" width="25%">
-
-### FULL STACK
-
-Building web applications  
-from interface to database.
-
-</td>
-
-<td align="center" width="25%">
-
-### BACKEND
-
-Learning APIs, databases,  
-authentication and deployment.
-
-</td>
-
-<td align="center" width="25%">
-
-### PROJECTS
-
-Turning concepts into  
-working, deployable products.
-
-</td>
-
-</tr>
-</table>
-
-</div>
+- **Understand before building** — dig into the problem, then design the solution
+- **Learn through making** — ship projects, not just code samples
+- **Clean code scales** — readability and maintainability matter from day one
+- **Systems thinking** — APIs, databases, and deployment are as important as features
 
 ---
 
-<div align="center">
+### Find Me
 
-## GITHUB
-
-<a href="https://github.com/Abhay1777">
-
-<img src="https://img.shields.io/badge/GitHub-Abhay1777-181717?style=for-the-badge&logo=github&logoColor=white" />
-
-</a>
-
-<br><br>
-
-Building consistently, committing what I learn, and turning projects into real software.
-
-<br><br>
-
-<a href="https://github.com/Abhay1777?tab=repositories">
-<img src="https://img.shields.io/badge/View_Repositories-161B22?style=flat-square&logo=github&logoColor=white" />
-</a>
-
-</div>
+- **GitHub:** [github.com/Abhay1777](https://github.com/Abhay1777)
+- **Portfolio:** [abhay1777.github.io/Portfolio](https://abhay1777.github.io/Portfolio/)
+- **LinkedIn:** [linkedin.com/in/abhay-dubey-67753a312](https://www.linkedin.com/in/abhay-dubey-67753a312/)
+- **Email:** abhaydubey1177@gmail.com
 
 ---
 
-<div align="center">
-
-## LET'S BUILD SOMETHING USEFUL.
-
-<br>
-
-<a href="https://www.linkedin.com/in/abhay-dubey-67753a312/">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28" />
-</a>
-&nbsp;
-<a href="https://abhay1777.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-222222?style=flat-square&logo=googlechrome&logoColor=white" height="28" />
-</a>
-&nbsp;
-<a href="mailto:abhaydubey1177@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" height="28" />
-</a>
-
-<br><br>
-
-<sub>Build quietly · Learn deeply · Ship consistently</sub>
-
-</div>
+<sub>Building consistently. Learning deeply. Shipping what works.</sub>
