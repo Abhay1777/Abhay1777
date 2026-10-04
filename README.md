@@ -1,212 +1,107 @@
-```
-╔════════════════════════════════════════════════════════════════════╗
-║                         ABHAY_OS v2.0                             ║
-║                   Developer Environment System                     ║
-╚════════════════════════════════════════════════════════════════════╝
+<div align="center">
 
- [ ✓ ] Identity loaded          [ ✓ ] Projects mounted
- [ ✓ ] Engineering stack ready  [ ✓ ] Process daemon running
- 
- ─────────────────────────────────────────────────────────────────────
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:312E81,75:7C3AED,100:06B6D4&height=210&section=header&text=ABHAY%20DUBEY&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descAlignY=58&descSize=18&descColor=C4B5FD" width="100%"/>
 
-<br/>
+# Hey, I'm **Abhay Dubey** 👋
 
-# ABHAY DUBEY
+### Full Stack Developer · Java · DSA · Backend
 
-**Full Stack Developer** — Systems built to be understood, not just used.
-
-─────────────────────────────────────────────────────────────────────
+**Building useful software, learning the systems behind it,  
+and improving one iteration at a time.**
 
 <br/>
 
-## $ SYSTEM_INFO
+<a href="https://github.com/Abhay1777">
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/abhay-dubey-67753a312/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://abhay1777.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:abhaydubey1177@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-```
-$ whoami
-Full Stack Developer • Problem Solver • Learning Architect
+<br/><br/>
 
-$ focus
-Java & DSA | Backend Systems | Full Stack Architecture
+<img src="https://komarev.com/ghpvc/?username=Abhay1777&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square"/>
 
-$ current_state
-Building real systems while mastering the fundamentals
+</div>
 
-$ location
-github.com/Abhay1777
-```
+---
 
-<br/>
+<div align="center">
 
-## /var/log/DIAGNOSTICS
+## ⚡ CURRENT STATE
 
-### CORE SYSTEMS
-```
-Java            ████████████░░░░░  active
-DSA             ███████░░░░░░░░░░░  focused
-Backend Design  ██████░░░░░░░░░░░░  learning
-```
+<table>
+<tr>
 
-### BUILD STACK
-```
-Full Stack      ████████████░░░░░  operational
-Frontend        ███████████░░░░░░░  ready
-Databases       █████████░░░░░░░░░  operational
-```
+<td width="33%" align="center">
 
-### EXPLORING
-```
-System Design   ██████░░░░░░░░░░░░  active
-APIs            ██████░░░░░░░░░░░░  research
-Deployment      █████░░░░░░░░░░░░░  learning
-```
+### 🧠 LEARNING
 
-<br/>
+<img src="https://skillicons.dev/icons?i=java" width="45"/>
 
-## /dev/LEARNING_TIMELINE
+**Java + DSA**
 
-The path from fundamentals to mastery.
+`Arrays` ✓  
+`Strings` →  
+`Linked Lists` ●
 
-```
-Arrays                    ████████████████████  completed
-Strings                   ████████████░░░░░░░░  75%
-Linked Lists              ████████░░░░░░░░░░░░  active ← YOU ARE HERE
-Stacks & Queues          ░░░░░░░░░░░░░░░░░░░░  queued
-Trees & Graphs           ░░░░░░░░░░░░░░░░░░░░  queued
-System Design            ░░░░░░░░░░░░░░░░░░░░  later
-```
+</td>
 
-<br/>
+<td width="33%" align="center">
 
-## /projects/FILESYSTEM
+### 🚀 BUILDING
 
-```
-/projects
-│
-├── sweatspot/
-│   └── Fitness platform
-│       HTML · CSS · JavaScript
-│       Workout tracking, step counting, BMI, goals
-│
-├── hostel-complaint-system/
-│   └── Complaint management
-│       Python · Flask · MongoDB
-│       Submit, track, resolve complaints at scale
-│
-├── hotel-booking-bot/
-│   └── Conversational AI
-│       AWS Lex
-│       Automated booking assistance
-│
-└── self-heal-git/
-    └── Autonomous PR reviewer [IN_PROGRESS]
-        Python · FastAPI · pytest · OpenAI API
-        ML-powered bug detection & fixing
+<img src="https://skillicons.dev/icons?i=react,nodejs" width="90"/>
 
-```
+**Full Stack Applications**
 
-<br/>
+Frontend · Backend  
+APIs · Databases
 
-## /etc/SYSTEM_DEPENDENCIES
+</td>
 
-```
-RUNTIME
-├── Java
-├── JavaScript
-├── C++
-└── C
+<td width="33%" align="center">
 
-FRONTEND
-├── React
-├── HTML
-└── CSS
+### 🎯 FOCUS
 
-BACKEND
-├── Node.js
-├── Express
-└── REST APIs
+<img src="https://skillicons.dev/icons?i=docker,aws" width="90"/>
 
-DATA_LAYER
-├── MySQL
-├── MongoDB
-└── PostgreSQL
+**Software Engineering**
 
-INFRASTRUCTURE
-├── Docker
-├── AWS
-└── Git
-```
+Problem Solving  
+Systems · Projects
 
-<br/>
+</td>
 
-## ENGINEERING_PROCESS
+</tr>
+</table>
 
-```
-    INPUT
-      ↓
-   UNDERSTAND ←─────→ (ask questions, read code)
-      ↓
-    DESIGN  ←─────→ (architecture, then code)
-      ↓
-    BUILD   ←─────→ (small, testable pieces)
-      ↓
-    BREAK   ←─────→ (find what doesn't work)
-      ↓
-    DEBUG   ←─────→ (fix the root cause)
-      ↓
-    SHIP    ←─────→ (deploy and learn)
-```
+</div>
 
-<br/>
+---
 
-## [ACTIVE_PROCESS]
+# 👨‍💻 About Me
 
-Live system processes:
+I'm a **B.E. Information Technology student** focused on becoming a strong software engineer.
 
-```
-PID  │ STATUS  │ PROCESS
-─────┼─────────┼──────────────────────────────
-001  │ running │ solving-dsa-daily
-002  │ running │ mastering-backend
-003  │ running │ building-projects
-004  │ running │ studying-system-design
-005  │ paused  │ exploring-deployment
-```
+Right now I'm working on the fundamentals that actually matter:
 
-<br/>
-
-## ENGINEERING_PHILOSOPHY
-
-```
-01  Understand the problem before touching code
-02  Build what works, then optimize
-03  Debug systematically, not emotionally
-04  Ship working systems over perfect concepts
-```
-
-<br/>
-
-## $ CONNECT --COMMAND
-
-```bash
-$ connect --github
-→ github.com/Abhay1777
-
-$ connect --portfolio
-→ abhay1777.github.io/Portfolio/
-
-$ connect --linkedin
-→ linkedin.com/in/abhay-dubey-67753a312/
-
-$ contact --email
-→ abhaydubey1177@gmail.com
-```
-
-<br/>
-
-```
-╔════════════════════════════════════════════════════════════════════╗
-║                     SYSTEM READY FOR INPUT                        ║
-║                  abhay@github:~/projects$ _                        ║
-╚════════════════════════════════════════════════════════════════════╝
-```
+```text
+Java + DSA
+     ↓
+Backend Development
+     ↓
+APIs + Databases
+     ↓
+Full Stack Applications
+     ↓
+Deployment + Better Systems
